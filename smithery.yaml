@@ -1,0 +1,8 @@
+runtime: "custom"
+startCommand:
+  type: "http"
+  url: "https://careerforge-api.agentweb-hub.workers.dev/mcp"
+  configSchema:
+    type: "object"
+    properties: {}
+exampleConfig: {}

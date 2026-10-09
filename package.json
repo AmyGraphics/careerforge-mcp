@@ -1,0 +1,32 @@
+{
+  "name": "careerforge-mcp",
+  "version": "1.0.0",
+  "description": "CareerForge - Autonomous Dev Career Engineering, ATS Resumes, Technical Interview Prep, Offer Negotiation & Remote Income Engine MCP. Engineers career strategy with offer-blocking gap analysis, ATS-proof resumes with the accomplishment bullet formula, interview prep (coding think-aloud, system design 4-step, STAR story bank), honest negotiation scripts with email templates, and remote international / freelance / consulting income paths with cross-border payment logistics.",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "career",
+    "resume",
+    "ats",
+    "job-search",
+    "technical-interview",
+    "system-design",
+    "coding-interview",
+    "salary-negotiation",
+    "remote-work",
+    "freelance",
+    "consulting",
+    "linkedin",
+    "developer-career",
+    "interview-prep",
+    "cursor",
+    "claude"
+  ],
+  "homepage": "https://mcp-hub.agentweb-hub.workers.dev/mcp/careerforge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmyGraphics/careerforge-mcp"
+  },
+  "author": "AmyGraphics",
+  "license": "MIT"
+}
