@@ -38,6 +38,12 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 }
 ```
 
+## 🔴 NEW in v1.1 — Live Tool: `score_resume_vs_job`
+
+Computes a REAL keyword match score between a resume and a job description: extracted job keywords, hits and misses, quantified-achievement detection, and prioritized tailoring fixes.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
