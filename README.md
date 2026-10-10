@@ -20,11 +20,11 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 
 | Tool | What it does |
 |------|-------------|
-| `autonomous_career_strategist` | Full career strategy in one call: honest market positioning by stage (junior/mid/senior/career-changer), skill gaps ranked by offer-blocking impact, proof-of-work plan (deployed products > repos > certificates), channel math (referrals 20-40% vs cold 1-3%), 90-day execution plan |
-| `build_ats_resume_profile` | ATS rules that matter vs the myths, the accomplishment bullet formula with before/after rewrites, honest JD keyword mapping, LinkedIn recruiter-search optimization, GitHub presentation engineered for the 30-second skim, playbooks for no-responses / no-interviews / thin experience / gap stories |
-| `prepare_technical_interviews` | Coding think-aloud protocol (what rubrics actually grade), system design 4-step framework with senior signals, the 8-story STAR bank covering 80% of behaviorals, take-home scope discipline, practice-for-transfer protocol, timeline plans from this-week to long-term |
-| `negotiate_offers_compensation` | Market homework that anchors, word-for-word scripts (the pause, the counter, the second lever, the close), full-comp analysis beyond base (equity realities, remote terms), email templates, playbooks for single offers / competing offers / internal raises / lowballs — honest negotiation, no bluffs |
-| `launch_remote_freelance_income` | Remote international jobs from anywhere (async-proof signals, timezone positioning — MENA/Africa EU-overlap advantage), freelance platform cold starts, direct consulting ladders (audit → project → retainer), productized income honestly sequenced, cross-border payment logistics |
+| `career.architect` | Full career strategy in one call: honest market positioning by stage (junior/mid/senior/career-changer), skill gaps ranked by offer-blocking impact, proof-of-work plan (deployed products > repos > certificates), channel math (referrals 20-40% vs cold 1-3%), 90-day execution plan |
+| `career.ats_resume` | ATS rules that matter vs the myths, the accomplishment bullet formula with before/after rewrites, honest JD keyword mapping, LinkedIn recruiter-search optimization, GitHub presentation engineered for the 30-second skim, playbooks for no-responses / no-interviews / thin experience / gap stories |
+| `career.interviews` | Coding think-aloud protocol (what rubrics actually grade), system design 4-step framework with senior signals, the 8-story STAR bank covering 80% of behaviorals, take-home scope discipline, practice-for-transfer protocol, timeline plans from this-week to long-term |
+| `career.negotiation` | Market homework that anchors, word-for-word scripts (the pause, the counter, the second lever, the close), full-comp analysis beyond base (equity realities, remote terms), email templates, playbooks for single offers / competing offers / internal raises / lowballs — honest negotiation, no bluffs |
+| `career.freelance` | Remote international jobs from anywhere (async-proof signals, timezone positioning — MENA/Africa EU-overlap advantage), freelance platform cold starts, direct consulting ladders (audit → project → retainer), productized income honestly sequenced, cross-border payment logistics |
 
 ## ⚡ Quick Start (Cursor / Claude Code)
 
@@ -38,7 +38,7 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 }
 ```
 
-## 🔴 NEW in v1.1 — Live Tool: `score_resume_vs_job`
+## 🔴 NEW in v1.1 — Live Tool: `career.score_resume`
 
 Computes a REAL keyword match score between a resume and a job description: extracted job keywords, hits and misses, quantified-achievement detection, and prioritized tailoring fixes.
 
